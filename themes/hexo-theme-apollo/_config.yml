@@ -1,0 +1,22 @@
+menu:
+    首页: /
+    初级: /categories/初级/
+    中级: /categories/中级/
+    高级: /categories/高级/
+
+favicon: /favicon.png
+logo: /logo.png
+
+# comment
+# e.g disqus: seansun
+disqus:
+duoshuo: java-jr-jr-com
+
+# google-analytics:
+ga:
+# baidu-analytics:
+ba:
+
+toc:
+  article: true
+  maxDepth: 3
